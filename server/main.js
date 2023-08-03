@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json())
 app.use('/auth',userRouter);
 app.use('/recipes',recipesRouter);
-const url="mongodb+srv://atharvabilonikar:wMYY4D3R8Ko9fR6X@test.3e97kk1.mongodb.net/recipes?retryWrites=true&w=majority"
+const url="mongodb+srv://<username>:<password>@test.3e97kk1.mongodb.net/recipes?retryWrites=true&w=majority"
 
 const connection=async()=>{
     try{
