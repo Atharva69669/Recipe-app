@@ -1,6 +1,6 @@
 # Dish Dash- Your Ultimate Recipe Sharing and Collection App
 
-Dish Dash is a full-stack web application built using the MERN (MongoDB, Express, React, Node.js) stack. It offers a seamless and interactive platform for culinary enthusiasts to create, explore, and share their favorite recipes. With features like user authentication, recipe creation, recipe viewing, saving recipes, and creating personal collections, RecipeBox provides a comprehensive solution for recipe management and discovery.
+Dish Dash is a full-stack web application built using the MERN (MongoDB, Express, React, Node.js) stack. It offers a seamless and interactive platform for culinary enthusiasts to create, explore, and share their favorite recipes. With features like user authentication, recipe creation, recipe viewing, saving recipes, and creating personal collections, Dish Dash provides a comprehensive solution for recipe management and discovery.
 
 ![Screenshot 2023-08-03 162645](https://github.com/Atharva69669/Recipe-app/assets/116868631/cad8cfbc-2a09-4598-8aee-c5f40f2b5ae8)
 
