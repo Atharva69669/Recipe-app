@@ -21,7 +21,7 @@ Node.js, Express, MongoDB
 JSON Web Tokens (JWT)
 
 # License
-RecipeBox is released under the MIT License.
+Dish Dash  is released under the MIT License.
 
 
 
