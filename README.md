@@ -13,9 +13,12 @@ Save Your Favorites: Found a recipe you love? Save it to your profile for quick 
  Create Personal Collections: Organize your saved recipes by creating personalized collections. Whether it's "Weeknight Dinners," "Healthy Breakfasts," or "Decadent Desserts," you can curate your own collections for easy reference.
 
 # Technologies Used
-# Frontend: React, Redux, HTML, CSS
-# Backend: Node.js, Express, MongoDB
-# Authentication: JSON Web Tokens (JWT)
+# Frontend:
+React, Redux, HTML, CSS
+# Backend:
+Node.js, Express, MongoDB
+# Authentication: 
+JSON Web Tokens (JWT)
 
 # License
 RecipeBox is released under the MIT License.
